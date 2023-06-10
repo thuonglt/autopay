@@ -1,18 +1,4 @@
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World",
   "EXPIRED_TIME" : 1689391802000,
   "LAUNCH_TIMEOUT" : 5000,
   "FOUND_LONG_TIMEOUT" : 10000,
